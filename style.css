@@ -1,0 +1,134 @@
+table {
+    border: 1px solid black;
+    border-spacing: 0px;
+}
+th, td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 60px 70px;
+}
+.Россия {
+    font-size: 25px;
+    background-image: url('./Images/Россия.jpg');
+    background-size: cover;
+}
+.Россия a {
+    color: azure;
+}
+.Египет {
+    font-size: 25px;
+    background-image: url('./Images/Египет.jpg');
+    background-size: cover;
+}
+.Египет a {
+    color: azure;
+}
+.Япония {
+    font-size: 25px;
+    background-image: url('./Images/Япония.jpg');
+    background-size: cover;
+}
+.Япония a {
+    color: azure;
+}
+.Мексика {
+    font-size: 25px;
+    background-image: url('./Images/Мексика.jpg');
+    background-size: cover;
+}
+.Мексика a {
+    color: azure;
+}
+.Бразилия {
+    font-size: 25px;
+    background-image: url('./Images/Бразилия.jpg');
+    background-size: cover;
+}
+.Бразилия a {
+    color: azure;
+}
+.Винегрет {
+    font-size: 25px;
+    background-image: url('./Images/Венегрет.jpg');
+    background-size: cover;
+}
+.Винегрет a {
+    color: white;
+}
+.Кошари {
+    font-size: 25px;
+    background-image: url('./Images/Кошари.jpg');
+    background-size: cover;
+}
+.Кошари a {
+    color: white;
+}
+.Удон {
+    font-size: 25px;
+    background-image: url('./Images/Удон.jpg');
+    background-size: cover;
+}
+.Удон a {
+    color: white;
+}
+.Тако {
+    font-size: 25px;
+    background-image: url('./Images/Тако.jpg');
+    background-size: cover;
+}
+.Тако a {
+    color: white;
+}
+.Фейжоада {
+    font-size: 25px;
+    background-image: url('./Images/Фейжоада.jpg');
+    background-size: cover;
+}
+.Фейжоада a {
+    color: white;
+}
+.R {
+    font-size: 20px;
+    background-image: url('./Images/Флаг\ России.jpeg');
+    background-size: cover;
+}
+.R a {
+    color: black;
+    font-weight: 900;
+}
+.E {
+    font-size: 20px;
+    background-image: url('./Images/Флаг\ Египта.jpg');
+    background-size: cover;
+}
+.E a {
+    color: black;
+    font-weight: 900;
+}
+.J {
+    font-size: 20px;
+    background-image: url('./Images/Флаг\ Японии.jpg');
+    background-size: cover;
+}
+.J a {
+    color: black;
+    font-weight: 900;
+}
+.M {
+    font-size: 20px;
+    background-image: url('./Images/Флаг\ Мексики.jpg');
+    background-size: cover;
+}
+.M a {
+    color: black;
+    font-weight: 900;
+}
+.B {
+    font-size: 20px;
+    background-image: url('./Images/Флаг\ Бразилии.jpg');
+    background-size: cover;
+}
+.B a {
+    color: black;
+    font-weight: 900;
+}
